@@ -6,3 +6,101 @@
   display: flex;
   justify-content: space-around;
 }
+.myinput {
+  border-color: black;
+  border-width: 3px;
+}
+.mybtn {
+  border-color: black;
+  border-width: 3px;
+  background-color: rgb(146, 144, 144);
+  color: white;
+}
+.mybtn :hover {
+  border-color: rgb(128, 125, 125);
+  border-width: 3px;
+  background-color: red;
+  color: black;
+  padding: 3px;
+  border-radius: 10px;
+}
+.data {
+  margin-left: auto;
+  margin-right: auto;
+}
+.formcard {
+  background-color: rgb(9, 105, 5);
+  color: rgb(252, 249, 249);
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10px;
+  width: 30vw;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.formcard1 {
+  background-color: rgb(54, 54, 54);
+  color: rgb(252, 249, 249);
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10px;
+  width: 30vw;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+input {
+  display: block;
+  border-color: black;
+  border-width: 3px;
+  marging: 10px;
+  margin-top: 10px;
+  color: black;
+}
+button {
+  display: block;
+  background-color: rgb(143, 140, 140);
+  color: blue;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+.form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vw;
+  background-color: aqua;
+  padding: 10px;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.forminput {
+  margin-top: 10px;
+  width: 20vw;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 10px;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}

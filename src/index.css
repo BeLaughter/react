@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.card {
-  display: flex;
-  justify-content: space-around;
-}
 .myinput {
   border-color: black;
   border-width: 3px;

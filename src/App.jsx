@@ -12,8 +12,6 @@ function App() {
       <Mynavbar />
       <div className="card">
         <Card />
-        <Card />
-        <Card />
       </div>
       <div className="data">
         <GetData />

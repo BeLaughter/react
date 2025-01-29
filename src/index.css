@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .myinput {
   border-color: black;
   border-width: 3px;

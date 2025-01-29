@@ -8,7 +8,7 @@ import Apptimer from "./components/Apptimer";
 import Form from "./components/Form";
 function App() {
   return (
-    <>
+    <div className="container">
       <Mynavbar />
       <div className="card">
         <Card />
@@ -20,7 +20,7 @@ function App() {
       <Form />
       <Apptimer />
       <Myfooter />
-    </>
+    </div>
   );
 }
 

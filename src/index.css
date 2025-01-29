@@ -79,7 +79,7 @@ button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50vw;
+  width: auto;
   background-color: aqua;
   padding: 10px;
   border-color: black;

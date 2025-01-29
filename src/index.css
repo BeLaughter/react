@@ -34,7 +34,7 @@
   border-color: black;
   border-width: 3px;
   border-radius: 10px;
-  width: 30vw;
+  width: auto;
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
@@ -48,7 +48,7 @@
   border-color: black;
   border-width: 3px;
   border-radius: 10px;
-  width: 30vw;
+  width: auto;
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
@@ -88,7 +88,7 @@ button {
 }
 .forminput {
   margin-top: 10px;
-  width: 20vw;
+  width: auto;
   padding: 10px;
   display: block;
   margin-left: auto;
@@ -104,3 +104,4 @@ button {
   display: flex;
   justify-content: center;
 }
+/* https://github.com/BeLaughter/react.git */
